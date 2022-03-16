@@ -1,4 +1,4 @@
-# algorithmic-trading-bot
+# algorithmic-trading-bot 
 algorithmic trading utilizing financial Python programming and machine learning to create an algorithmic trading bot that learns and adapts to new data and evolving markets.
 # Module14_Challenge
 
